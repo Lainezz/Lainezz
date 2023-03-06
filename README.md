@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Lainezz AKA Diego.</h2>
+<h2 align="center">👋 Hello! I'm Lainezz.</h2>
 
 - 🔭 I’m currently working as a IT Teacher
 - 🌱 I’m currently learning C, Python, Kotlin, JS, Java... and a large etcétera.
